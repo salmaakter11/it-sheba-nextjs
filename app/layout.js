@@ -23,6 +23,12 @@ export default function RootLayout({ children }) {
 
         <Script src="assets/js/vendors/jquery-3.5.1.min.js" ></Script>
         <Script src="assets/js/vendors/bootstrap.bundle.min.js" strategy="lazyOnload"></Script>
+        <Script src="assets/js/vendors/bootstrap-slider.min.js" strategy="lazyOnload"></Script>
+        <Script src="assets/js/vendors/jquery.countdown.min.js" strategy="lazyOnload"></Script>
+        <Script src="assets/js/vendors/validator.min.js" strategy="lazyOnload"></Script>
+        <Script src="assets/js/vendors/jquery.waypoints.min.js" strategy="lazyOnload"></Script>
+        <Script src="assets/js/vendors/jquery.rcounterup.js" strategy="lazyOnload"></Script>
+        <Script src="assets/js/vendors/magnific-popup.min.js" strategy="lazyOnload"></Script>
         <Script src="assets/js/vendors/hs.megamenu.js" strategy="lazyOnload"></Script>
         <Script src="assets/js/custom.js" strategy="lazyOnload"></Script>
  
